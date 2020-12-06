@@ -1,6 +1,6 @@
 # Saúl Gallegos
 ## Web developer and Data Analyst
-### Find me in [LinkedIn](https://www.linkedin.com/in/saulgallegos)
+### Find me on [LinkedIn](https://www.linkedin.com/in/saulgallegos)
 
 ## With what do I work? 
 - **Frontend:** React and Javascript
