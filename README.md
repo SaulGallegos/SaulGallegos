@@ -4,7 +4,7 @@
 
 ## My Stack? 
 - **Frontend:** React, Redux, Next JS, TypeScript, JavaScript.
-- **Backend:** Node JS, Express, REST, Socket.io, Handlebars.
+- **Backend:** Node JS, Express, REST, Django, DRF.
 - **Databases:** MongoDB, PostgreSQL.
 
 
