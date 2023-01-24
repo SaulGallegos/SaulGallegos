@@ -1,5 +1,5 @@
 # Saúl Gallegos
-## Senior Software and Machine Learning Engineer at Khoble
+## Senior Software and Machine Learning Engineer
 Saul Gallegos is a senior software engineer and machine learning engineer with experience in high-growth startups implementing end-to-end functionalities and managing development teams. 
 He also has experience in the development and application of machine learning algorithms for process optimization, data analysis and data science.
 ### Find me on [LinkedIn](https://www.linkedin.com/in/saulgallegos)
